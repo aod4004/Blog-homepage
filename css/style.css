@@ -144,6 +144,8 @@ img { max-width: 100%; display: block; }
 .contact-list li { padding: 16px 0; border-bottom: 1px dashed var(--line); }
 .contact-list li:last-child { border-bottom: 0; }
 .contact-list strong { display: inline-block; width: 90px; color: var(--accent); }
+.contact-list a { font-weight: 700; }
+.contact .btn { margin-top: 8px; }
 
 /* 푸터 */
 .site-footer { padding: 28px 0; text-align: center; color: var(--muted); font-size: .9rem; border-top: 1px solid var(--line); }
